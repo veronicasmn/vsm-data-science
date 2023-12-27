@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Verónica Sánchez.
+- 📍 I'm from Barcelona, Spain.
 - 👀 I'm interested in data analytics and data science.
 - 🧐 In active data science job search.
 - 👩🏻‍🎓 Studying:
