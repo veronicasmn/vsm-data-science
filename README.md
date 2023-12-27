@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Verónica Sánchez.
 - 👀 I'm interested in data analytics and data science.
-- 🌱 I'm currently learning Power BI to get the IBM certification: Power BI Data Analyst 
-- 💞️ I am studing in Barrcelona Activa
-- 👩🏻‍🎓 In October I start a Master in Data Science and Advanced Analytics
-- 📫 How to contact me via vsanchezmunoz86@gmail.com
+- 🧐 In active data science job search.
+- 👩🏻‍🎓 Studying:
+      · Datascience bootcamp in Barrcelona Activa ends in February '24.
+      · Master's degree in data science and advanced analytics at UIC ends June '24.
+- 📫 You can contact me through vsanchezmunoz86@gmail.com
 --->
