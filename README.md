@@ -1,6 +1,4 @@
-- 👋 Hi, I'm Verónica Sánchez.
+- 👋 Hi, I'm Verónica
 - 📍 I'm from Barcelona, Spain.
 - 👀 I'm interested in data science.
-- 👩🏻‍🎓 Master's degree in data science and advanced analytics at UIC.
-- 📫 You can contact me through vsanchezmunoz86@gmail.com
 --->
